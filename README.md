@@ -10,4 +10,4 @@ npm install --save react react-dom
 
 
 ### References
-(React Installation)[https://reactjs.org/docs/installation.html#installing-react]
+[React Installation](https://reactjs.org/docs/installation.html#installing-react)
