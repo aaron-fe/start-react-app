@@ -48,7 +48,7 @@ npm install --save-dev babel-cli babel-preset-flow
 2. Create a `.babelrc` file with `flow` in your `presets`
 ```
 module.exports = {
-  presets: [flow]
+  presets: ['flow']
 };
 ```
 
